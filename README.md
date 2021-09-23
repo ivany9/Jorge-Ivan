@@ -15,7 +15,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 -🥅 2021 Goals: Contribute more to Open Source projects
 
--⚡ Fun fact: I love to draw and play guitar / drums
+-⚡ Fun fact: I love to ride Motorbikes and play guitar, ukelele and trumpet
 
 
 
