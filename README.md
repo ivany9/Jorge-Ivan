@@ -5,7 +5,9 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 
 
 
--🔭 I just launched my first course: Become A Web Developer!!
+
+
+-🔭 I just launched my first course:Web Developer!!
 
 -🌱 I’m currently learning everything 🤣
 
@@ -14,6 +16,12 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 -🥅 2021 Goals: Contribute more to Open Source projects
 
 -⚡ Fun fact: I love to draw and play guitar / drums
+
+
+
+
+Some of my Repos
+
 
 
 
