@@ -26,7 +26,10 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 
 
 
-![email-icon-99](mailto:ivany9@gmail.com)
+![emai![email-icon-99](https://user-images.githubusercontent.com/83906297/134442667-051e7644-d59a-4af4-964f-692ff57dc125.png)
+l-icon-99][1]
+
+[1]:(mailto:ivany9@gmail.com)
 
 
 
