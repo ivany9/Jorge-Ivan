@@ -25,7 +25,7 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 
 
 
-![email-icon-99](https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png=200x200)
+![email-icon-99](https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png | width=100)
 
 
 
