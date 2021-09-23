@@ -25,11 +25,12 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 
 <a href="mailto:ivany9@gmail.com"> <img src="https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png" alt="alt text" width="100" height="100"> </a>
 
+<a href="https://twitter.com/jorgivan298"> <img src="https://user-images.githubusercontent.com/83906297/134444561-4c61ce7c-bca1-48c5-84c8-853bf8ceaef9.png" alt="alt text" width="100" height="100"> </a>
+
+<a href="https://www.linkedin.com/in/jorge-ivan-2022b4113/"> <img src="https://user-images.githubusercontent.com/83906297/134444488-22440828-adfb-4c8b-8d17-3f243b40c686.png" alt="alt text" width="100" height="100"> </a>
 
 
 
-
-[1]:(mailto:ivany9@gmail.com)
 
 
 
