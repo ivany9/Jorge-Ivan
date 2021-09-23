@@ -7,7 +7,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 
--🔭 I just launched my first course:Web Developer!!
+-🔭 I just launched my first course: as Web Developer!!
 
 -🌱 I’m currently learning everything 🤣
 
