@@ -31,7 +31,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 ## Portfolio
 
-<a href="https://ivany9.github.io/reactPorfolio/ "> Portfolio </a>
+<a href="https://ivany9.github.io/reactPorfolio/ ">    <h1> Portfolio  </h1> </a>
 
 
 <a href="mailto:ivany9@gmail.com"> <img src="https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png" alt="alt text" width="100" height="100"> </a>
