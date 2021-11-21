@@ -137,25 +137,25 @@ can see the employee table, roles, add employees, add deparments, and delete emp
 -npm i ascii-art
 
 ```
-
+<a href="https://github.com/ivany9/toolsfinder"><h3>Repo</h3></a>
 
 ![ToolsFinder](https://user-images.githubusercontent.com/83906297/142746074-2f602393-e9da-47c5-a3af-1a964414d20e.gif)
 
 ```
- 🥇 Employee Management System 
+Tools Finder
 
-In this app the user can manipulate infomation  from slq database, The user can call differets scenarios, you 
-can see the employee table, roles, add employees, add deparments, and delete employees.
+The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done. You can post your tools and make money from renting them out. On the other side you can rent someone elses tools to get your job done, all without spending money buying a new tool that they would only use once.
 
 
 -Technology 
 
+-React
 -Node.js
--JavaScript
--npm Inquirer.
--npm console table.
--mysql
--npm i ascii-art
+-GraphQl
+-Mongoose
+-MongoDb
+-Express.
+-
 
 ```
 
