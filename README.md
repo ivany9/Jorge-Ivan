@@ -57,7 +57,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 ```
-- Team Profile Generator, is an app that display  the role of each employer generating a card with information provided by command line.
+ Team Profile Generator, is an app that display  the role of each employer generating a card with information provided by command line.
 
 -Technology 
 
@@ -66,6 +66,8 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 -npm Inquirer.
 -Boostrap.
 ```
+
+<a href="https://github.com/ivany9/Team-Profile-Generator">REPO</a>
 
 
 ![video](https://user-images.githubusercontent.com/83906297/134440681-4202688a-1d63-4cf7-bbeb-77fb52cb19cb.gif)
