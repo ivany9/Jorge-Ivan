@@ -56,6 +56,8 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 ![html](https://user-images.githubusercontent.com/83906297/134440669-4c8ef9b5-1377-4bb2-83d4-783156270921.gif)
 
 
+<a href="https://github.com/ivany9/Team-Profile-Generator"><h3>Repo<h3></a>
+
 ```
  Team Profile Generator, is an app that display  the role of each employer generating a card with information provided by command line.
 
@@ -67,7 +69,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 -Boostrap.
 ```
 
-<a href="https://github.com/ivany9/Team-Profile-Generator">REPO</a>
+
 
 
 ![video](https://user-images.githubusercontent.com/83906297/134440681-4202688a-1d63-4cf7-bbeb-77fb52cb19cb.gif)
