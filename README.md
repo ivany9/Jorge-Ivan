@@ -139,6 +139,29 @@ can see the employee table, roles, add employees, add deparments, and delete emp
 ```
 
 
+![ToolsFinder](https://user-images.githubusercontent.com/83906297/142746074-2f602393-e9da-47c5-a3af-1a964414d20e.gif)
+
+```
+ 🥇 Employee Management System 
+
+In this app the user can manipulate infomation  from slq database, The user can call differets scenarios, you 
+can see the employee table, roles, add employees, add deparments, and delete employees.
+
+
+-Technology 
+
+-Node.js
+-JavaScript
+-npm Inquirer.
+-npm console table.
+-mysql
+-npm i ascii-art
+
+```
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivany9&show_icons=true&theme=radical)
 
