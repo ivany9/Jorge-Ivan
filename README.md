@@ -136,11 +136,17 @@ you can see the employee table, roles, add employees, add deparments, and delete
 -npm i ascii-art
 
 ```
-<a href="https://github.com/ivany9/toolsfinder"><h3>Repo</h3></a>
+
 
 ![ToolsFinder](https://user-images.githubusercontent.com/83906297/142746074-2f602393-e9da-47c5-a3af-1a964414d20e.gif)
 
 ```
+
+<a href="https://github.com/ivany9/toolsfinder"><h3>Repo</h3></a>
+
+<a href="https://github.com/ivany9/toolsfinder"><h3>Deploy</h3></a>
+
+
 Tools Finder
 
 The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done.
