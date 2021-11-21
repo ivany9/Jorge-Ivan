@@ -28,7 +28,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 
-<h2 align="center border-bottom: none">Contact me</h2>
+<h2 align="center">Contact me</h2>
 
 <a href="https://ivany9.github.io/reactPortfolio/ "><h2>Portfolio </h2> </a>
 
@@ -96,6 +96,26 @@ Tech-Bloq app is the perfect app to post and share  technology concepts, to comm
 
 
 ![video1](https://user-images.githubusercontent.com/83906297/134440690-f71d9c69-20ca-46b1-9cf4-64f6e1cc82c3.gif)
+
+
+<a href="https://github.com/ivany9/E-Commerce-Back-End"><h3>Repo</h3></a>
+
+```
+E-Commerce Back-End
+
+This is a nice project to interac with database, Mysql, working with relationship, betwen models, and testing routs with insomnia tool. 
+
+-Technology 
+
+-sequlize
+-mysql2
+-express
+-insomnia
+
+
+
+
+```
 ![video2](https://user-images.githubusercontent.com/83906297/134440692-c88f1c28-d8a7-4fc1-beb3-da6766bf4ce0.gif)
 
 
