@@ -27,7 +27,6 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 -⚡ Fun fact: I love to ride Motorbikes and play guitar, ukelele and trumpet
 
-</br>
 <a href="https://ivany9.github.io/reactPortfolio/ "><h3>Portfolio</h3></a>  
 
 
