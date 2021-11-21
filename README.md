@@ -118,6 +118,25 @@ This is a nice project to interac with database, Mysql, working with relationshi
 ```
 ![video2](https://user-images.githubusercontent.com/83906297/134440692-c88f1c28-d8a7-4fc1-beb3-da6766bf4ce0.gif)
 
+<a href="https://github.com/ivany9/Employee-Management-System"><h3>Repo</h3></a>
+
+```
+ 🥇 Employee Management System 
+
+In this app the user can manipulate infomation  from slq database, The user can call differets scenarios, you 
+can see the employee table, roles, add employees, add deparments, and delete employees.
+
+
+-Technology 
+
+-Node.js
+-JavaScript
+-npm Inquirer.
+-npm console table.
+-mysql
+-npm i ascii-art
+
+```
 
 
 
