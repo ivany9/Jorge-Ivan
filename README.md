@@ -1,4 +1,4 @@
-<span style="color: green align:center"> >Hello Folk's<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>
+<span style="align=center"> >Hello Folk's<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>
 
 
 
