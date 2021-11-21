@@ -28,7 +28,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 
-<h2 align="center">Contact me </h2>
+<h2 align="center border-bottom: none">Contact me</h2>
 
 <a href="https://ivany9.github.io/reactPortfolio/ "><h2>Portfolio </h2> </a>
 
