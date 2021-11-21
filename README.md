@@ -29,9 +29,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 ##  Contact me 
 
-<p>
-
-<a align="center"><a href="https://ivany9.github.io/reactPortfolio/ ">    <h2> Portfolio  </h2> </a>
+<p align="center"><a href="https://ivany9.github.io/reactPortfolio/ "><h2> Portfolio  </h2> </a></p>
 
 
 <a href="mailto:ivany9@gmail.com"> <img src="https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png" alt="alt text" width="50" height="50"> </a>
@@ -39,7 +37,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 <a href="https://www.linkedin.com/in/jorge-ivan-2022b4113/"> <img src="https://user-images.githubusercontent.com/83906297/134444488-22440828-adfb-4c8b-8d17-3f243b40c686.png" alt="alt text" width="50" height="50"> </a>
 
-</p>
+
 
 
 
