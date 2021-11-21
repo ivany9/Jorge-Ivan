@@ -43,7 +43,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 
-<div style="text-aling:center"><h2> Some of my Repos!</h2></div>
+<h2 align="center"> Some of my Repos!</h2>
 
 
 
