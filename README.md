@@ -1,13 +1,20 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System Engineer from Colombia, living in Sydney.
+I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System Engineer from Colombia, living in Sydney.
+
+
+
+
+<img src="https://user-images.githubusercontent.com/83906297/134445867-2d075bdc-35f5-4e56-b845-cfb2fcfdef75.gif" alt="alt text" >
 
 
 
 
 
--🔭 I just launched my first course:Web Developer!!
+
+
+-🔭 I just launched my first course: as Web Developer!!
 
 -🌱 I’m currently learning everything 🤣
 
@@ -15,18 +22,28 @@ I'm Jorge Ivan Rodriguez, I'm web Developer from University of Sydney/ System En
 
 -🥅 2021 Goals: Contribute more to Open Source projects
 
--⚡ Fun fact: I love to draw and play guitar / drums
+-⚡ Fun fact: I love to ride Motorbikes and play guitar, ukelele and trumpet
 
 
 
 
 # Contact me 
 
+## Portfolio
+
+<a align="center"><a href="https://ivany9.github.io/reactPortfolio/ ">    <h3> Portfolio  </h3> </a>
+
+<div>
+<a href="mailto:ivany9@gmail.com"> <img src="https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png" alt="alt text" width="100" height="100"> </a>
+
+<a href="https://twitter.com/jorgivan298"> <img src="https://user-images.githubusercontent.com/83906297/134444561-4c61ce7c-bca1-48c5-84c8-853bf8ceaef9.png" alt="alt text" width="100" height="100"> </a>
+
+<a href="https://www.linkedin.com/in/jorge-ivan-2022b4113/"> <img src="https://user-images.githubusercontent.com/83906297/134444488-22440828-adfb-4c8b-8d17-3f243b40c686.png" alt="alt text" width="100" height="100"> </a>
+</div>
 
 
-![green-email-icon-9](mailto:ivany9@gmail.com)
 
-![email](mailto:ivany9@gmail.com)
+
 
 ### Some of my Repos!
 
