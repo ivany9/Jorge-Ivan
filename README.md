@@ -57,7 +57,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 </br>
 
 
-<a href="https://github.com/ivany9/Team-Profile-Generator"><h3>Repo<h3></a>
+<a href="https://github.com/ivany9/Team-Profile-Generator"><h3>Repo</h3></a>
 
 ```
  Team Profile Generator, is an app that display  the role of each employer generating a card
@@ -77,7 +77,7 @@ with information provided by command line.
 ![video](https://user-images.githubusercontent.com/83906297/134440681-4202688a-1d63-4cf7-bbeb-77fb52cb19cb.gif)
 <br>
 
-<a href="https://github.com/ivany9/Tech-Blog"><h3>Repo<h3></a>
+<a href="https://github.com/ivany9/Tech-Blog"><h3>Repo</h3></a>
 
 ```
 Tech-Bloq app is the perfect app to post and share  technology concepts, to comment it and upload images. 
