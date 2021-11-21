@@ -77,6 +77,7 @@ with information provided by command line.
 <a href="https://github.com/ivany9/Tech-Blog"><h3>Repo</h3></a>
 
 <a href="https://sdgfbb.herokuapp.com/"><h3>Deploy</h3></a>
+
 ```
 Tech-Bloq app is the perfect app to post and share  technology concepts, to comment it and upload images. 
 
@@ -91,6 +92,7 @@ Tech-Bloq app is the perfect app to post and share  technology concepts, to comm
 -bcrypt
 -npm Inquirer.
 -Boostrap.
+
 ```
 
 
@@ -115,6 +117,7 @@ This is a nice project to interac with database, Mysql, working with relationshi
 
 
 ```
+
 ![video2](https://user-images.githubusercontent.com/83906297/134440692-c88f1c28-d8a7-4fc1-beb3-da6766bf4ce0.gif)
 
 <a href="https://github.com/ivany9/Employee-Management-System"><h3>Repo</h3></a>
@@ -137,16 +140,13 @@ you can see the employee table, roles, add employees, add deparments, and delete
 
 ```
 
-
 ![ToolsFinder](https://user-images.githubusercontent.com/83906297/142746074-2f602393-e9da-47c5-a3af-1a964414d20e.gif)
-
-```
 
 <a href="https://github.com/ivany9/toolsfinder"><h3>Repo</h3></a>
 
 <a href="https://github.com/ivany9/toolsfinder"><h3>Deploy</h3></a>
 
-
+```
 Tools Finder
 
 The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done.
