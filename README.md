@@ -123,8 +123,8 @@ This is a nice project to interac with database, Mysql, working with relationshi
 ```
  🥇 Employee Management System 
 
-In this app the user can manipulate infomation  from slq database, The user can call differets scenarios, you 
-can see the employee table, roles, add employees, add deparments, and delete employees.
+In this app the user can manipulate infomation  from slq database, The user can call differets scenarios,
+you can see the employee table, roles, add employees, add deparments, and delete employees.
 
 
 -Technology 
@@ -144,7 +144,9 @@ can see the employee table, roles, add employees, add deparments, and delete emp
 ```
 Tools Finder
 
-The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done. You can post your tools and make money from renting them out. On the other side you can rent someone elses tools to get your job done, all without spending money buying a new tool that they would only use once.
+The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done.
+You can post your tools and make money from renting them out. On the other side you can rent someone elses
+tools to get your job done, all without spending money buying a new tool that they would only use once.
 
 
 -Technology 
