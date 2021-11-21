@@ -31,13 +31,15 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 ## Portfolio
 
+<div>
 <a align="center"><a href="https://ivany9.github.io/reactPortfolio/ ">    <h3> Portfolio  </h3> </a>
 
-<div>
+
 <a href="mailto:ivany9@gmail.com"> <img src="https://user-images.githubusercontent.com/83906297/134442958-cea11a27-ed71-4dac-bab1-dffa026f0631.png" alt="alt text" width="50" height="50"> </a>
 
 
 <a href="https://www.linkedin.com/in/jorge-ivan-2022b4113/"> <img src="https://user-images.githubusercontent.com/83906297/134444488-22440828-adfb-4c8b-8d17-3f243b40c686.png" alt="alt text" width="50" height="50"> </a>
+
 </div>
 
 
@@ -55,10 +57,12 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 ![html](https://user-images.githubusercontent.com/83906297/134440669-4c8ef9b5-1377-4bb2-83d4-783156270921.gif)
 
+
+```
 - Team Profile Generator, is an app that display  the role of each employer generating a card with information provided by command line.
 
 -Technology 
-```
+
 -Node.js
 -JavaScript
 -npm Inquirer.
