@@ -54,12 +54,14 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 ![html](https://user-images.githubusercontent.com/83906297/134440669-4c8ef9b5-1377-4bb2-83d4-783156270921.gif)
+</br>
 
 
 <a href="https://github.com/ivany9/Team-Profile-Generator"><h3>Repo<h3></a>
 
 ```
- Team Profile Generator, is an app that display  the role of each employer generating a card with information provided by command line.
+ Team Profile Generator, is an app that display  the role of each employer generating a card
+with information provided by command line.
 
 -Technology 
 
@@ -73,6 +75,27 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 
 
 ![video](https://user-images.githubusercontent.com/83906297/134440681-4202688a-1d63-4cf7-bbeb-77fb52cb19cb.gif)
+<br>
+
+<a href="https://github.com/ivany9/Tech-Blog"><h3>Repo<h3></a>
+
+```
+Tech-Bloq app is the perfect app to post and share  technology concepts, to comment it and upload images. 
+
+-Technology 
+
+-Node.js
+-JavaScript.
+-sequelize.
+-Multer
+-mysql
+-Express.js
+-bcrypt
+-npm Inquirer.
+-Boostrap.
+```
+
+
 ![video1](https://user-images.githubusercontent.com/83906297/134440690-f71d9c69-20ca-46b1-9cf4-64f6e1cc82c3.gif)
 ![video2](https://user-images.githubusercontent.com/83906297/134440692-c88f1c28-d8a7-4fc1-beb3-da6766bf4ce0.gif)
 
