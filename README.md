@@ -75,6 +75,7 @@ with information provided by command line.
 <br>
 
 <a href="https://github.com/ivany9/Tech-Blog"><h3>Repo</h3></a>
+
 <a href="https://sdgfbb.herokuapp.com/"><h3>Deploy</h3></a>
 ```
 Tech-Bloq app is the perfect app to post and share  technology concepts, to comment it and upload images. 
