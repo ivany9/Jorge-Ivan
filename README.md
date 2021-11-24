@@ -60,8 +60,7 @@ I'm Jorge Ivan Rodriguez, I'm a web Developer from University of Sydney/ System 
 <a href="https://github.com/ivany9/Team-Profile-Generator"><h3>Repo</h3></a>
 
 ```
- Team Profile Generator, is an app that display  the role of each employer generating a card
-with information provided by command line.
+The Team Profile Generator is an app that takes information about employees and generates a HTML webpage displaying summaries for each person. The app generates a Manager for each project and the user can then add roles to complete the project team.
 
 -Technology 
 
@@ -128,8 +127,7 @@ This is a nice project to interac with database, Mysql, working with relationshi
 ```
  🥇 Employee Management System 
 
-In this app the user can manipulate infomation  from slq database, The user can call differets scenarios,
-you can see the employee table, roles, add employees, add deparments, and delete employees.
+The Employee Management App is a command line app that allows the user to manipulate data from an sql database. The user can manage employee details and add relevant information including Department, Roles, add deparments, add roles, update Managers and roles, and also you can delete an employer when from teh system.
 
 
 -Technology 
@@ -152,10 +150,7 @@ you can see the employee table, roles, add employees, add deparments, and delete
 ```
 Tools Finder
 
-The Tools Finder app is the perfect app to connect our neighborhood and help you get that job done.
-You can post your tools and make money from renting them out. On the other side you can rent someone elses
-tools to get your job done, all without spending money buying a new tool that they would only use once.
-
+The Tools Finder app is the perfect app to connect people in their local neighborhood and help you get that job done. You can post your tools and make money from renting them out. On the other side you can rent someone elses tools to get your job done, all without spending money buying a new tool that they would only use once.
 
 -Technology 
 
